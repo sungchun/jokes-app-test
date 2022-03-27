@@ -1,0 +1,25 @@
+.joke-box{
+    border: 1px solid black;
+    width: 500px;
+    height: 150px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.joke-box div{
+    display: flex;
+    margin: 5px;
+}
+
+button{
+    width: 55px;
+    height: 30px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.joke-text{
+    width: 450px;
+    font-size: 15px;
+    margin:10px;
+}
